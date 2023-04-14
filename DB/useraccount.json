@@ -1,0 +1,77 @@
+{
+  "1": {
+    "name": "John Smith",
+    "age": 27,
+    "date_of_join": "2023-01-01",
+    "mobile_number": "555-1234",
+    "register_number": "RS12345",
+    "fees_due": 5000,
+    "fee_history": [
+      {
+        "plan": "Cardio,Strength",
+        "paid_on": "2022-01-20",
+        "expires_on": "2024-01-02",
+        "amount": 1000,
+        "date": "2022-01-21"
+      },
+      {
+        "plan": "Cardio,Strength",
+        "paid_on": "2022-02-20",
+        "expires_on": "2021-10-01",
+        "amount": 1000
+      },
+      {
+        "plan": "Cardio,Strength",
+        "paid_on": "2022-03-20",
+        "expires_on": "2021-10-01",
+        "amount": 1000
+      }
+    ]
+  },
+  "2": {
+    "name": "Jane Doe",
+    "age": 32,
+    "date_of_join": "2021-08-10",
+    "mobile_number": "555-5678",
+    "register_number": "RS67890",
+    "fees_due": 8000,
+    "fee_history": [
+      {
+        "plan": "Strength",
+        "paid_on": "2021-09-01",
+        "expires_on": "2021-10-01",
+        "amount": 2000
+      },
+      {
+        "plan": "Strength",
+        "paid_on": "2021-12-01",
+        "expires_on": "2021-10-01",
+        "amount": 2000
+      },
+      {
+        "plan": "Others",
+        "paid_on": "2022-03-01",
+        "expires_on": "2021-10-01",
+        "amount": 2000
+      }
+    ]
+  },
+  "20234142037": {
+    "name": "Sundar",
+    "age": "18",
+    "date_of_join": "2023-04-06",
+    "mobile_number": "8838713032",
+    "register_number": "888",
+    "fees_due": "600",
+    "aadhar_number": "",
+    "address": "",
+    "fee_history": [
+      {
+        "plan": "Strength",
+        "paid_on": "",
+        "expires_on": "",
+        "amount": "600"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "gym_membership_app",
+  "version": "1.0.0",
+  "description": "An electron js application built with express js and react js for Managing membersip of gym members, and lot more",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.0.0",
+    "electron-packager": "^17.1.1",
+    "electron-reload": "^2.0.0-alpha.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "react": "^18.2.0"
+  }
+}
